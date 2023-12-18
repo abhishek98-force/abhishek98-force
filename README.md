@@ -9,7 +9,7 @@ I am Software Developer, currently doing my Masters in Software Engineering Syst
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<img float="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" style="width:30px; padding-right:10px;">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" style="width:30px; padding-right:10px; float:"left"">
 <img float="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="width:30px; padding-right:10px;">
 <img  float="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" style="width:30px; padding-right:10px;">
 <img float="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" style="width:30px; padding-right:10px;">
