@@ -8,6 +8,7 @@ I am Software Developer, currently doing my Masters in Software Engineering Syst
 ### ⚙️ Languages and Tools
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div style="display:flex";>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" style="width:30px; padding-right:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="width:30px; padding-right:10px;">
