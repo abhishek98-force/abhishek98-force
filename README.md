@@ -1,6 +1,6 @@
 ### ⛅ Abhishek Unnithan
 
-I am Software Developer, currently doing my Masters in Software Engineering Systems at Northeastern University. My main area of interest is web development, both client side and server side. I enjoy programming and creating software from concepts I learn. I also enjoy Salesforce Platform Development, having worked as a Salesforce Developer at Wipro.
+I am Software Developer, currently doing my Masters in Software Engineering Systems at Northeastern University. My main area of interest is web development, both client and server side. I enjoy programming and creating software from concepts I learn. I also enjoy Salesforce Platform Development, having worked as a Salesforce Developer at Wipro.
 
 --- 
 
