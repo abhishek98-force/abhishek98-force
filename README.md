@@ -16,7 +16,7 @@ I am Software Developer, currently doing my Masters in Software Engineering Syst
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" style="width:40px; padding-right:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" style="width:40px; padding-right:10px; ">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" style="width:40px; padding-right:10px; ">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" style="width:40px; margin-right:10px; background-color:white; ">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" style="width:40px; margin-right:10px; background-color: white; ">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="express" style="width:40px; padding-right:10px; "> 
 </div>
 
