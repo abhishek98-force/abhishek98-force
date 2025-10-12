@@ -22,6 +22,7 @@ I am Software Developer, currently doing my Masters in Software Engineering Syst
 
 ---
 
+<!--
 ### ☁️ Salesforce Certifications
 <img src="./TransparentImage.png" alt="force-certis" />
 
